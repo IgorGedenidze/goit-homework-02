@@ -1,1 +1,1 @@
-# My-FirstRepository
+# goit-homework-02
